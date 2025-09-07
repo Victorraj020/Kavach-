@@ -1,4 +1,4 @@
-// File: C:\piyush kavach\Kavach\kavach-piyush\src\app\notifications\page.tsx
+// File: C:\piyush kavach\Kavach\frontend\src\app\notifications\page.tsx
 import * as entry from '../../../../src/app/notifications/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
